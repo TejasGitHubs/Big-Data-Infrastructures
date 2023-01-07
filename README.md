@@ -1,5 +1,5 @@
-# Big-Data-Infrastructures
-Cloud Native Analytical Pipeline
+# Cloud Native Analytical Pipeline
+Project:
 A cloud native analytical pipeline is a data processing and analysis system that is designed to run in a cloud computing environment, such as Amazon Web Services (AWS). The goal of a cloud native analytical pipeline is to enable organizations to quickly and efficiently analyze large volumes of data from various sources to gain insights and make data-driven decisions.
 
 One possible business use for a cloud native analytical pipeline in AWS services is to process and analyze customer data in real-time to support customer relationship management (CRM) efforts. For example, an e-commerce company could use the pipeline to analyze customer purchase history, browsing behavior, and other data to personalize recommendations and offers, improve the customer experience, and increase loyalty and retention.
